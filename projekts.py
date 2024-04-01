@@ -1,6 +1,6 @@
 from tkinter import *
 window = Tk()
-window.title('Add Image')
+window.title('Bilde')
 window = Canvas(window,width= 1000, height = 900)
 window.pack()
 image = PhotoImage(file = 'C:\\Users\\Dators\\Desktop\\hist.png')
